@@ -11,6 +11,7 @@
         android:id="@+id/view_group"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:orientation="horizontal"
         android:importantForAccessibility="yes">
 
         <TextView
